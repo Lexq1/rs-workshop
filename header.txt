@@ -1,2 +1,4 @@
 Hello world
-Changes from <master> new changes!!!
+Changes from <master>
+Changes from <first>
+Tex from master: new changes!!!
